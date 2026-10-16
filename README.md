@@ -1,7 +1,7 @@
-# <img src="docs/lap_icon.svg" height="32" alt="LAP"> [Purify Before You Align: Improving Representation Alignment for Diffusion Models](https://arxiv.org/abs/ARXIV_ID)
+# <img src="docs/lap_icon.svg" height="32" alt="LAP"> [Purify Before You Align: Improving Representation Alignment for Diffusion Models](https://arxiv.org/abs/2610.20761)
 By [Yingheng Wang](https://yingheng-wang.com/), Yaoqiang Li, Yaqin Wu, [Junwen Bai](https://junwenbai.github.io/), [Jiatao Gu](https://jiataogu.me/), [Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/)
 
-[![arXiv](https://img.shields.io/badge/arXiv-ARXIV_ID-b31b1b.svg)](https://arxiv.org/abs/ARXIV_ID)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.20761-b31b1b.svg)](https://arxiv.org/abs/2610.20761)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace_🤗-LAP_checkpoints-orange)](https://huggingface.co/yingheng/LAP-checkpoints)
 [![CPU checks](https://github.com/yingheng-wang/LAP/actions/workflows/tests.yml/badge.svg)](https://github.com/yingheng-wang/LAP/actions/workflows/tests.yml)
 
@@ -148,7 +148,7 @@ This repository was built off of [REPA](https://github.com/sihyun-yu/REPA) and [
 @article{wang2026purify,
   title   = {Purify Before You Align: Improving Representation Alignment for Diffusion Models},
   author  = {Wang, Yingheng and Li, Yaoqiang and Wu, Yaqin and Bai, Junwen and Gu, Jiatao and De Sa, Christopher and Kuleshov, Volodymyr},
-  journal = {arXiv preprint arXiv:ARXIV_ID},
+  journal = {arXiv preprint arXiv:2610.20761},
   year    = {2026}
 }
 ```
