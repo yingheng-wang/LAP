@@ -2,6 +2,8 @@
 By [Yingheng Wang](https://yingheng-wang.com/), Yaoqiang Li, Yaqin Wu, [Junwen Bai](https://junwenbai.github.io/), [Jiatao Gu](https://jiataogu.me/), [Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.20761-b31b1b.svg)](https://arxiv.org/abs/2610.20761)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://yingheng-wang.com/LAP/)
+[![HF Paper](https://img.shields.io/badge/HuggingFace_🤗-Paper-yellow)](https://huggingface.co/papers/2610.20761)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace_🤗-LAP_checkpoints-orange)](https://huggingface.co/yingheng/LAP-checkpoints)
 [![CPU checks](https://github.com/yingheng-wang/LAP/actions/workflows/tests.yml/badge.svg)](https://github.com/yingheng-wang/LAP/actions/workflows/tests.yml)
 
